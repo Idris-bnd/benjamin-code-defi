@@ -117,6 +117,7 @@ body{
     object-fit: cover;
     transition: transform .2s;
     transform: translateY(100vh);
+    cursor: pointer;
 }
 .imgs img:nth-child(1){
     animation: imgsAndNav 1.5s;
